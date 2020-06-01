@@ -47,6 +47,7 @@ And you're all set!
 - Fix x and y coordinate flip: right now, have to pass in coordinates as y,x which is confusing and may lead to unintuitive bugs
 - Figure out how to print out map without hard-coding the dimensions (will allow for customizable spaces)
 - Comment everything
+- No boundaries: Alice can be moved off the grid, and frankly, has no restrictions because the game was developed assuming ideal usage
 
 #### Minor
 - Sprite disappears: when Alice plants something or harvests, she disappears (but reappears on the next move)
